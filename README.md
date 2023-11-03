@@ -63,3 +63,18 @@ Founder, DeepLearning.AI; Co-founder, Coursera
 
 - **Ejemplo: OrderBot para Tomar Pedidos en una Pizzería:**
   - Explore el uso del formato de chat para tener conversaciones ampliadas con chatbots personalizados o especializados para tareas o comportamientos específicos. Por ejemplo, un OrderBot puede tomar pedidos en una pizzería.
+
+ # Resumen del Curso
+
+En resumen, en este breve curso has aprendido acerca de dos principios clave para dar indicaciones efectivas:
+
+- **Escribir Instrucciones Claras y Específicas:**
+  - Proporciona instrucciones claras y específicas para guiar el modelo hacia la salida deseada.
+
+- **Dar Tiempo al Modelo para Pensar, Cuando Sea Apropiado:**
+  - Permite que el modelo tenga tiempo para pensar cuando sea necesario, para obtener respuestas más consideradas.
+
+Además, has aprendido sobre el desarrollo de avisos iterativos y cómo es fundamental tener un proceso para llegar al aviso adecuado para tu aplicación. También hemos explorado algunas capacidades de modelos de lenguaje grandes que son útiles para muchas aplicaciones, como la capacidad de resumir, inferir, transformar y expandir texto. Por último, has visto cómo construir un chatbot personalizado para ampliar tus interacciones con los usuarios.
+
+Estos conceptos te proporcionarán una base sólida para aprovechar al máximo las capacidades de los modelos de lenguaje y crear aplicaciones innovadoras y efectivas. ¡Espero que disfrutes aplicando lo que has aprendido en tus propios proyectos!
+
