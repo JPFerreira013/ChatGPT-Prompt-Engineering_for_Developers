@@ -3,16 +3,22 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 
 https://www.youtube.com/watch?v=H4YK_7MAckk&t=1s
 
-# ChatGPT-Prompt-Engineering_for_Developers
-Learn prompt engineering best practices for application development ; Discover new ways to use LLMs, including how to build your own custom chatbot; Gain hands-on practice writing and iterating on prompts yourself using the OpenAI API
+# ChatGPT Prompt Engineering for Developers
 
-What you’ll learn in this course
-In ChatGPT Prompt Engineering for Developers, you will learn how to use a large language model (LLM) to quickly build new and powerful applications.  Using the OpenAI API, you’ll be able to quickly build capabilities that learn to innovate and create value in ways that were cost-prohibitive, highly technical, or simply impossible before now. This short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) will describe how LLMs work, provide best practices for prompt engineering, and show how LLM APIs can be used in applications for a variety of tasks, including:
-Summarizing (e.g., summarizing user reviews for brevity)
-Inferring (e.g., sentiment classification, topic extraction)
-Transforming text (e.g., translation, spelling & grammar correction)
-Expanding (e.g., automatically writing emails)
-In addition, you’ll learn two key principles for writing effective prompts, how to systematically engineer good prompts, and also learn to build a custom chatbot. All concepts are illustrated with numerous examples, which you can play with directly in our Jupyter notebook environment to get hands-on experience with prompt engineering
+Aprende las mejores prácticas para la ingeniería de indicaciones en el desarrollo de aplicaciones. Descubre nuevas formas de utilizar los Modelos de Lenguaje Grande (LLM, por sus siglas en inglés), incluyendo cómo construir tu propio chatbot personalizado. Obtén práctica práctica escribiendo e iterando sobre las indicaciones tú mismo usando la API de OpenAI.
+
+## Lo que aprenderás en este curso
+
+En "ChatGPT Prompt Engineering for Developers," aprenderás cómo utilizar un modelo de lenguaje grande (LLM) para construir rápidamente aplicaciones nuevas y poderosas. Utilizando la API de OpenAI, podrás desarrollar rápidamente capacidades que aprenden a innovar y crear valor de formas que antes eran prohibitivas en costos, altamente técnicas o simplemente imposibles. Este breve curso, impartido por Isa Fulford (OpenAI) y Andrew Ng (DeepLearning.AI), describirá cómo funcionan los LLM, proporcionará las mejores prácticas para la ingeniería de indicaciones y mostrará cómo se pueden utilizar las APIs de LLM en aplicaciones para una variedad de tareas, incluyendo:
+
+- **Resumir** (por ejemplo, resumir reseñas de usuarios para mayor concisión)
+- **Inferir** (por ejemplo, clasificación de sentimientos, extracción de temas)
+- **Transformar texto** (por ejemplo, traducción, corrección de ortografía y gramática)
+- **Expandir** (por ejemplo, escribir correos electrónicos automáticamente)
+
+## En colaboración con OpenAI
+
+Estamos emocionados de colaborar con OpenAI en la oferta de este curso, diseñado para ayudar a los desarrolladores a utilizar eficazmente los Modelos de Lenguaje Grande (LLM). Este curso refleja la última comprensión de las mejores prácticas para el uso de indicaciones para los últimos modelos de LLM.
 
 
 Isa Fulford
